@@ -4,3 +4,4 @@ Scripts
 1-listit list of your our current directory.
 2-bring_me_home changes to the user's home directory.
 3-listfiles list current directory's contents in long format.
+4-listmorefiles list all files in long formay even the hidden.
