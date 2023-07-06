@@ -16,3 +16,5 @@ Scripts
 13-symbolic create a symbolic link.
 14-copy_html create a script that copies all the HTML.
 100-lets_move moves files that start with a Upper letter.
+101-clean_emacs deletes all files.
+102-tree creates directories
