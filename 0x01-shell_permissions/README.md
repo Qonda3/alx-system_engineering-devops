@@ -12,3 +12,4 @@ Scripts on permission
 9-John_Doe sets permission.
 10-mirror_permissions set permission.
 11-directories_permissions
+12-directory_permissions create a directory
