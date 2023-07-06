@@ -6,3 +6,4 @@ Scripts on permission
 3-new_owner changes the owner
 4-empty create an empty file.
 5-execute adds execute permission to the owner
+6-multiple_permissions.
