@@ -6,3 +6,4 @@ Scripts
 3-listfiles list current directory's contents in long format.
 4-listmorefiles list all files in long formay even the hidden.
 5-listfilesdigitonly user and group IDs displayed numerically.
+6-firstdirectory create a directory using a script.
