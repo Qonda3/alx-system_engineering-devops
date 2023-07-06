@@ -10,4 +10,5 @@ Scripts
 7-movethatfile move a file to a drectory.
 8-firstdelete delete a file.
 9-firstdirdeletion delete a directory.
-10-back change directory to the previous one. 
+10-back change directory to the previous one.
+11-lists lists files using absalute pathway. 
