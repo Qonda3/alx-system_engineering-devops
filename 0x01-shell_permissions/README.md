@@ -11,3 +11,4 @@ Scripts on permission
 8-James_Bond sets permission.
 9-John_Doe sets permission.
 10-mirror_permissions set permission.
+11-directories_permissions
