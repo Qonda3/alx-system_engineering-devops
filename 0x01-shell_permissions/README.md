@@ -14,3 +14,4 @@ Scripts on permission
 11-directories_permissions
 12-directory_permissions create a directory
 13-change_group changes group owner
+100-change_owner_and_group change owner and group owner.
