@@ -9,4 +9,5 @@ Scripts
 6-firstdirectory create a directory using a script.
 7-movethatfile move a file to a drectory.
 8-firstdelete delete a file.
-9-firstdirdeletion delete a directory. 
+9-firstdirdeletion delete a directory.
+10-back change directory to the previous one. 
