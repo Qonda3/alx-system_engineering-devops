@@ -8,3 +8,4 @@ Scripts on permission
 5-execute adds execute permission to the owner
 6-multiple_permissions.
 7-everybody adds execution permission to all users.
+8-James_Bond sets permission.
