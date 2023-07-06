@@ -8,4 +8,5 @@ Scripts
 5-listfilesdigitonly user and group IDs displayed numerically.
 6-firstdirectory create a directory using a script.
 7-movethatfile move a file to a drectory.
-8-firstdelete delete a file. 
+8-firstdelete delete a file.
+9-firstdirdeletion delete a directory. 
