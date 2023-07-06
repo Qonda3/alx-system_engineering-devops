@@ -7,4 +7,5 @@ Scripts
 4-listmorefiles list all files in long formay even the hidden.
 5-listfilesdigitonly user and group IDs displayed numerically.
 6-firstdirectory create a directory using a script.
-7-movethatfile
+7-movethatfile move a file to a drectory.
+8-firstdelete delete a file. 
