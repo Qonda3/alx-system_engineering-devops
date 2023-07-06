@@ -14,3 +14,4 @@ Scripts
 11-lists lists files using absalute pathway.
 12-file_type print the type of file.
 13-symbolic create a symbolic link.
+14-copy_html create a script that copies all the HTML.
