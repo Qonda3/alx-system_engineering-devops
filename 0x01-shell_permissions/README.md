@@ -10,3 +10,4 @@ Scripts on permission
 7-everybody adds execution permission to all users.
 8-James_Bond sets permission.
 9-John_Doe sets permission.
+10-mirror_permissions set permission.
