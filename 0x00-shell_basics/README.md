@@ -11,4 +11,5 @@ Scripts
 8-firstdelete delete a file.
 9-firstdirdeletion delete a directory.
 10-back change directory to the previous one.
-11-lists lists files using absalute pathway. 
+11-lists lists files using absalute pathway.
+12-file_type print the type of file. 
