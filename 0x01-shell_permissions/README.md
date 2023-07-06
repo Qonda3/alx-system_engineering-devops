@@ -7,3 +7,4 @@ Scripts on permission
 4-empty create an empty file.
 5-execute adds execute permission to the owner
 6-multiple_permissions.
+7-everybody adds execution permission to all users.
