@@ -10,3 +10,4 @@ Scripts on redirections
 6-third_line display the third line in the file.
 7-file create a file with special characters.
 8-cwd_state redirecting output.
+9-duplicate_last_line duplicates the lastline.
