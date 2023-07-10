@@ -6,3 +6,4 @@ Scripts on redirections
 2-hellofile display content of the /etc/passwd file.
 3-twofiles display content of appended two files.
 4-lastlines display last 10 lines.
+5-firstlines.
