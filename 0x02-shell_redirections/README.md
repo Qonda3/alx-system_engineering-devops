@@ -9,3 +9,4 @@ Scripts on redirections
 5-firstlines.
 6-third_line display the third line in the file.
 7-file create a file with special characters.
+8-cwd_state redirecting output.
