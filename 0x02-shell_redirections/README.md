@@ -17,3 +17,5 @@ Scripts on redirections
 13-uniqe display unique lines.
 14-findthatword prints line with word root.
 15-countthatword count number of lines that conntain word bin.
+16-whatsnext 
+17-hidethisword display the lines that do not match.
