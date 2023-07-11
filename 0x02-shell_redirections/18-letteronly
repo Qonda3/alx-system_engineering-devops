@@ -1,0 +1,2 @@
+i#!/bin/bash
+cat [[:upper:]]* /etc/ssh/sshd_config | grep "^[[:alpha:]]"
