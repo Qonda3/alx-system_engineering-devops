@@ -16,3 +16,4 @@ Scripts on redirections
 12-newest_files files displayed from newest to oldest.
 13-uniqe display unique lines.
 14-findthatword prints line with word root.
+15-countthatword count number of lines that conntain word bin.
