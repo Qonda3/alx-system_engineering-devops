@@ -12,3 +12,4 @@ Scripts on redirections
 8-cwd_state redirecting output.
 9-duplicate_last_line duplicates the lastline.
 10-no_more_js deletes files with a .js extention.
+11-directories count number of directories and sub/.
