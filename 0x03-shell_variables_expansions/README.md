@@ -10,4 +10,5 @@ Script on variables & expansions
 6-create_local_variable.
 7-create_global_variable.
 8-true_knowledge add a constant number and a variable.
-9-divide_and_rule divide using two variables. 
+9-divide_and_rule divide using two variables.
+10-love_exponent_breath use exponents with global variables. 
