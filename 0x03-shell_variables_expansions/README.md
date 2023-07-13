@@ -11,4 +11,5 @@ Script on variables & expansions
 7-create_global_variable.
 8-true_knowledge add a constant number and a variable.
 9-divide_and_rule divide using two variables.
-10-love_exponent_breath use exponents with global variables. 
+10-love_exponent_breath use exponents with global variables.
+11-binary_to_decimal convert number from base 2 to base 10. 
