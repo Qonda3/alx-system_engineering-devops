@@ -7,4 +7,5 @@ Script on variables & expansions
 3-paths count number of directories in PATH.
 4-global_variables list environment.
 5-local_variables.
-6-create_local_variable. 
+6-create_local_variable.
+7-create_global_variable. 
