@@ -12,4 +12,5 @@ Script on variables & expansions
 8-true_knowledge add a constant number and a variable.
 9-divide_and_rule divide using two variables.
 10-love_exponent_breath use exponents with global variables.
-11-binary_to_decimal convert number from base 2 to base 10. 
+11-binary_to_decimal convert number from base 2 to base 10.
+12-combinations prints combinations of 2 letters except oo. 
