@@ -9,4 +9,5 @@ Script on variables & expansions
 5-local_variables.
 6-create_local_variable.
 7-create_global_variable.
-8-true_knowledge. 
+8-true_knowledge add a constant number and a variable.
+9-divide_and_rule divide using two variables. 
